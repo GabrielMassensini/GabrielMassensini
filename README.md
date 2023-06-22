@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm Gabriel Massensini, a software developer passi
 ![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-![Massensini GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmassensini&theme=shadow_blue_icons=true)
+![Massensini GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmassensini&theme=black_icons=true)
 <br>
-[![Massensini](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassensini&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Massensini](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassensini&hide=html&layout=compact&theme=shadow_blue)](https://github.com/gabrielmassensini/github-readme-stats)
 
 
 ## 🤝 Let's Connect
