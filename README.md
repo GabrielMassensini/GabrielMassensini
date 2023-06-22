@@ -25,6 +25,9 @@ Welcome to my GitHub profile! I'm Gabriel Massensini, a software developer passi
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ![Massensini GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmassensini&theme=shadow_blue_icons=true)
+<br>
+[![Massensini](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassensini&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🤝 Let's Connect
 
