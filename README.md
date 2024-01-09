@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm Gabriel Massensini, a software developer passi
 
 ## 🌱 Technologies I'm Currently Studying
 
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ## 🤝 Let's Connect
 
 I'm always open to new opportunities and collaborations. Whether you want to discuss potential projects, job opportunities, or just say hello, feel free to reach out to me through the following channels:
